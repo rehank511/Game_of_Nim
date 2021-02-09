@@ -1,1 +1,1 @@
-# Game_of_Nim
+# Console_Game_of_Nim
